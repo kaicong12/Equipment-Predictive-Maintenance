@@ -7,9 +7,9 @@ The folders are sorted based on timeline. With each timeline consisting multiple
 
 2. August 2021
     - NLP Approach
-        - Alarm Sequence LSTM
+        - Alarm Sequence LSTM__
         ![AlarmSeq_Model](alarm_seq.png)
-        - State Name & Duration Sequence LSTM
+        - State Name & Duration Sequence LSTM__
         ![AlarmSeq_Model](statename_seq.png)
         - Combined features LSTM
 
