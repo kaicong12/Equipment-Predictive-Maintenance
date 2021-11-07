@@ -1,23 +1,22 @@
 # EQ Major Down Summary README
 
-The folders are sorted based on timeline. With each timeline consisting multiple approaches. <br/>
+NLP Approach for sequence classification. Unsatisfactory model precision and recall becasue the input data seems to be too random and there is no clear relationship between input data and output label (as proven by further EDA based on intuition) <br>
 
-1. June 2021
-    - Multiple features aggregated over 7 days
+-Model used <br/>
 
-2. August 2021
-    - NLP Approach
-        - Alarm Sequence LSTM  
-        ![AlarmSeq_Model](alarm_seq.png)
-        - State Name & Duration Sequence LSTM  
-        ![AlarmSeq_Model](statename_seq.png)
-        - Combined features LSTM
+- Alarm Sequence LSTM  
+![AlarmSeq_Model](alarm_seq.png)
+- State Name & Duration Sequence LSTM  
+![AlarmSeq_Model](statename_seq.png)
+- Combined features LSTM
 
-3. September 2021
-    - Aggregated over shorter period of time, collecting frequencies of each distinct Alarm ID & State Name
 
-4. November 2021
-    - MTBA & MTBF
-    - TF-IDF as sample weight
-    - Walk forward dataset with no overlap on Alarm ID
+Best Results when using different data sources: <br/>
+
+| Data source   | Test Precision | Test Recall  |
+| ------------- |:----:|:---:|
+| Alarm         | 78 | 44 |
+| Eq Status and its respective duration | 49 | 47 |
+
+
 
