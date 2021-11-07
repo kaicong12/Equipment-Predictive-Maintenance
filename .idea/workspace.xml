@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccfa4b5c-d0c6-4c98-af76-6c82e554d59c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/June_2021/.ipynb_checkpoints/CNN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/.ipynb_checkpoints/EQ_Feature_Engineering-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/.ipynb_checkpoints/Machine_Learning_models-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/.ipynb_checkpoints/Multiclass-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/CNN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/EQ_Feature_Engineering.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_EEEC_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_EQALARM_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_EQATTR1_SAMPLE.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_EQATTR2_SAMPLE.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_EQSTATUS_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_Maintenance_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/BTH_WBA_TRANSACTIONERROR_raw.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/WBA124_0416-0430_Alarm.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/WBA124_0416-0430_Parameter.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/best_dense_model.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Excel data/best_model.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Machine_Learning_models.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/June_2021/Multiclass.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/September_2021/.ipynb_checkpoints/Use 168 to predict 24-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/September_2021/ANOVA Feature Selection.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/September_2021/Add EQ one by one.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/September_2021/Conv1D_aggregate.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/September_2021/Use 168 to predict 24.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="ccfa4b5c-d0c6-4c98-af76-6c82e554d59c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +38,7 @@
       <updated>1636277915945</updated>
       <workItem from="1636277917870" duration="69000" />
       <workItem from="1636278070104" duration="729000" />
+      <workItem from="1636282960762" duration="10000" />
     </task>
     <servers />
   </component>
