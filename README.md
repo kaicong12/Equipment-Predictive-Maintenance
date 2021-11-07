@@ -1,7 +1,8 @@
 # EQ Major Down Summary README
 
-NLP Approach for sequence classification. Unsatisfactory model precision and recall becasue the input data seems to be too random and there is no clear relationship between input data and output label (as proven by further EDA based on intuition) <br>
+NLP Approach for sequence classification. Unsatisfactory model precision and recall becasue the input data seems to be too random and there is no clear relationship between input data and output label (as proven by further EDA based on intuition) <br/>
 
+Further data cleaning can be done with help of domain experts, for now,
 
 Best Results when using different data sources: <br/>
 
